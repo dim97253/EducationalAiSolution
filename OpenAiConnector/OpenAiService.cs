@@ -6,7 +6,7 @@ namespace OpenAiConnector
 {
     public class OpenAiService
     {
-        private string _openAiToken = "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";
+        private string _openAiToken = "";
         public async Task<string> ChatCompletion(dynamic messages)
         {
             var client = new HttpClient();
