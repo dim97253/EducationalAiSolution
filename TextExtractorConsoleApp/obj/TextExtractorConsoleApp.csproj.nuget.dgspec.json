@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\repos\\EducationalAiSolution\\TextExtractorConsoleApp\\TextExtractorConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\repos\\EducationalAiSolution\\OpenAiConnector\\OpenAiConnector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repos\\EducationalAiSolution\\OpenAiConnector\\OpenAiConnector.csproj",
+        "projectName": "OpenAiConnector",
+        "projectPath": "D:\\repos\\EducationalAiSolution\\OpenAiConnector\\OpenAiConnector.csproj",
+        "packagesPath": "C:\\Users\\Heron\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\EducationalAiSolution\\OpenAiConnector\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Heron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\repos\\EducationalAiSolution\\TextExtractorConsoleApp\\TextExtractorConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repos\\EducationalAiSolution\\TextExtractorConsoleApp\\TextExtractorConsoleApp.csproj",
+        "projectName": "TextExtractorConsoleApp",
+        "projectPath": "D:\\repos\\EducationalAiSolution\\TextExtractorConsoleApp\\TextExtractorConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Heron\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\EducationalAiSolution\\TextExtractorConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Heron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\repos\\EducationalAiSolution\\OpenAiConnector\\OpenAiConnector.csproj": {
+                "projectPath": "D:\\repos\\EducationalAiSolution\\OpenAiConnector\\OpenAiConnector.csproj"
+              },
+              "D:\\repos\\EducationalAiSolution\\TextExtractor\\TextExtractor.csproj": {
+                "projectPath": "D:\\repos\\EducationalAiSolution\\TextExtractor\\TextExtractor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\repos\\EducationalAiSolution\\TextExtractor\\TextExtractor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repos\\EducationalAiSolution\\TextExtractor\\TextExtractor.csproj",
+        "projectName": "TextExtractor",
+        "projectPath": "D:\\repos\\EducationalAiSolution\\TextExtractor\\TextExtractor.csproj",
+        "packagesPath": "C:\\Users\\Heron\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\EducationalAiSolution\\TextExtractor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Heron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

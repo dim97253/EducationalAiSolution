@@ -1,0 +1,12 @@
+D:\repos\EducationalAiSolution\OpenAiConnector\bin\Debug\net6.0\OpenAiConnector.deps.json
+D:\repos\EducationalAiSolution\OpenAiConnector\bin\Debug\net6.0\OpenAiConnector.dll
+D:\repos\EducationalAiSolution\OpenAiConnector\bin\Debug\net6.0\OpenAiConnector.pdb
+D:\repos\EducationalAiSolution\OpenAiConnector\obj\Debug\net6.0\OpenAiConnector.csproj.AssemblyReference.cache
+D:\repos\EducationalAiSolution\OpenAiConnector\obj\Debug\net6.0\OpenAiConnector.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\EducationalAiSolution\OpenAiConnector\obj\Debug\net6.0\OpenAiConnector.AssemblyInfoInputs.cache
+D:\repos\EducationalAiSolution\OpenAiConnector\obj\Debug\net6.0\OpenAiConnector.AssemblyInfo.cs
+D:\repos\EducationalAiSolution\OpenAiConnector\obj\Debug\net6.0\OpenAiConnector.csproj.CoreCompileInputs.cache
+D:\repos\EducationalAiSolution\OpenAiConnector\obj\Debug\net6.0\OpenAiConnector.dll
+D:\repos\EducationalAiSolution\OpenAiConnector\obj\Debug\net6.0\refint\OpenAiConnector.dll
+D:\repos\EducationalAiSolution\OpenAiConnector\obj\Debug\net6.0\OpenAiConnector.pdb
+D:\repos\EducationalAiSolution\OpenAiConnector\obj\Debug\net6.0\ref\OpenAiConnector.dll

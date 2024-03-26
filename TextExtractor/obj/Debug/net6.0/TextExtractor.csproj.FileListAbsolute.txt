@@ -1,0 +1,12 @@
+D:\repos\EducationalAiSolution\TextExtractor\bin\Debug\net6.0\TextExtractor.deps.json
+D:\repos\EducationalAiSolution\TextExtractor\bin\Debug\net6.0\TextExtractor.dll
+D:\repos\EducationalAiSolution\TextExtractor\bin\Debug\net6.0\TextExtractor.pdb
+D:\repos\EducationalAiSolution\TextExtractor\obj\Debug\net6.0\TextExtractor.csproj.AssemblyReference.cache
+D:\repos\EducationalAiSolution\TextExtractor\obj\Debug\net6.0\TextExtractor.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\EducationalAiSolution\TextExtractor\obj\Debug\net6.0\TextExtractor.AssemblyInfoInputs.cache
+D:\repos\EducationalAiSolution\TextExtractor\obj\Debug\net6.0\TextExtractor.AssemblyInfo.cs
+D:\repos\EducationalAiSolution\TextExtractor\obj\Debug\net6.0\TextExtractor.csproj.CoreCompileInputs.cache
+D:\repos\EducationalAiSolution\TextExtractor\obj\Debug\net6.0\TextExtractor.dll
+D:\repos\EducationalAiSolution\TextExtractor\obj\Debug\net6.0\refint\TextExtractor.dll
+D:\repos\EducationalAiSolution\TextExtractor\obj\Debug\net6.0\TextExtractor.pdb
+D:\repos\EducationalAiSolution\TextExtractor\obj\Debug\net6.0\ref\TextExtractor.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cmq2qy6hFLC1bY+1s9OgUZXTOyP0F4sx2YNGR5sLeMw9AuFyio7BJhehq+lXUxG0ddwtMMxEt2GbGpuRrn9W/w==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\EducationalAiSolution\\OpenAiConnector\\OpenAiConnector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heron\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

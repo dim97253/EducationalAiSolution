@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gRaRyRV6yJf0tPGlp7AAFeWWjoQKIfBGcXTdDjTYTsam0Iwm8wuNXfqnCQq5dSvGhu2Oi1asrsc+aBs15P6wvw==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\EducationalAiSolution\\TextExtractorConsoleApp\\TextExtractorConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heron\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
