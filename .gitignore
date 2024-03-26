@@ -8,3 +8,5 @@
 *.suo
 /TextExtractorConsoleApp/obj/Debug/
 /TextExtractorConsoleApp/bin/Debug/
+/OpenAiConnector/obj/Debug/
+/TextExtractor/obj/Debug/
